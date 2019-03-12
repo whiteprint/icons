@@ -1,0 +1,11 @@
+{
+  "name": "@whiteprint/icons",
+  "version": "1.0.0",
+  "description": "Icons designed for the Whiteprint framework",
+  "author": "Sam Smith",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-svg-sprite": "^1.5.0"
+  }
+}
