@@ -1,8 +1,11 @@
 {
   "name": "@whiteprint/icons",
-  "version": "1.0.0",
-  "description": "Icons designed for the Whiteprint framework",
-  "author": "Sam Smith",
+  "version": "0.1.0",
+  "description": "Icons designed for the Whiteprint, front-end component library",
+  "author": {
+    "name": "Sam Smith",
+    "url": "https://smth.uk"
+  },
   "license": "MIT",
   "devDependencies": {
     "gulp": "^4.0.0",
