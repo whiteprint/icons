@@ -13,3 +13,6 @@ gulp.task('icons', function(done) {
     .pipe(gulp.dest('.'));
     done();
 });
+
+// deafult task
+gulp.task('default', gulp.parallel('icons'));
